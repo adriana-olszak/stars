@@ -337,7 +337,6 @@
 - [abreza/nestjs-event-store](https://github.com/abreza/nestjs-event-store) - NestJS CQRS module for EventStore.org. It requires @nestjs/cqrs
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [ArkerLabs/event-sourcing-nestjs](https://github.com/ArkerLabs/event-sourcing-nestjs) - NestJS module for implementing Event Sourcing
-- [thenativeweb/wolkenkit](https://github.com/thenativeweb/wolkenkit) - wolkenkit is an open-source CQRS and event-sourcing framework based on Node.js, and it supports JavaScript and TypeScript.
 - [gabriel-pinheiro/nest-hal](https://github.com/gabriel-pinheiro/nest-hal) - A Nest library for HAL+JSON responses
 - [deblockt/hal-rest-client](https://github.com/deblockt/hal-rest-client) - Typescript HAL Rest client
 - [brookshi/Hitchhiker](https://github.com/brookshi/Hitchhiker) - a Restful Api test tool
