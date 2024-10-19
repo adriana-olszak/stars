@@ -578,7 +578,6 @@
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [purchasing-power-parity/purchasing-power-parity](https://github.com/purchasing-power-parity/purchasing-power-parity) - 💫  Make your products affordable for everyone around the world.
-- [thenativeweb/wolkenkit](https://github.com/thenativeweb/wolkenkit) - wolkenkit is an open-source CQRS and event-sourcing framework based on Node.js, and it supports JavaScript and TypeScript.
 - [traverson/traverson](https://github.com/traverson/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 - [rmanguinho/clean-react](https://github.com/rmanguinho/clean-react) - Sistema em ReactJs usando Hooks, Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
@@ -746,7 +745,6 @@
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [Netflix/nerror](https://github.com/Netflix/nerror) - nerror: rich JavaScript errors
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [thenativeweb/wolkenkit](https://github.com/thenativeweb/wolkenkit) - wolkenkit is an open-source CQRS and event-sourcing framework based on Node.js, and it supports JavaScript and TypeScript.
 - [brookshi/Hitchhiker](https://github.com/brookshi/Hitchhiker) - a Restful Api test tool
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
