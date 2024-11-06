@@ -795,7 +795,7 @@
 - [Lifyzer/Food-Scanner-API-Backend](https://github.com/Lifyzer/Food-Scanner-API-Backend) - 🍳 The YUMMIEST™ REST API for the Lifyzer Solution™ food scanner apps 😋 Thanks to data🤖, it will return back to its client apps the right result we expect 🥥
 - [schollz/ingredients](https://github.com/schollz/ingredients) - Extract recipe ingredients from any recipe website on the internet.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
-- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games,
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [graphql/graphql-over-http](https://github.com/graphql/graphql-over-http) - Working draft of "GraphQL over HTTP" specification
 - [tc39/proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
