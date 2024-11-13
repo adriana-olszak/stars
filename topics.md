@@ -839,7 +839,7 @@
 - [6fold/fast-postgres-date-parser](https://github.com/6fold/fast-postgres-date-parser) - faster implementation of postgres date parser
 - [sergiodxa/swr-sync-storage](https://github.com/sergiodxa/swr-sync-storage) - Synchronize SWR cache with localStorage or sessionStorage to get offline cache
 - [808-Squad/koronawirus.lol](https://github.com/808-Squad/koronawirus.lol) - Generator obostrzeń covidowych
-- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [motiondivision/motion](https://github.com/motiondivision/motion) - Open source, production-ready animation and gesture library for React
 - [eventuate-tram/eventuate-tram-sagas](https://github.com/eventuate-tram/eventuate-tram-sagas) - Sagas for microservices
 - [ts-arch/ts-arch](https://github.com/ts-arch/ts-arch) - An architecture unit test framework for Typescript
 - [BottegaIT/ddd-leaven-v2](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CqRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing
@@ -1054,7 +1054,7 @@
 
 ## tailwindcss 
 
-- [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - A collection of open-source, customizable motion components built on top of Framer Motion.
+- [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
 - [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️
 
 ## terraform 
