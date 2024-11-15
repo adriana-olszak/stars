@@ -357,7 +357,7 @@
 - [sergiodxa/swr-sync-storage](https://github.com/sergiodxa/swr-sync-storage) - Synchronize SWR cache with localStorage or sessionStorage to get offline cache
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [motiondivision/motion](https://github.com/motiondivision/motion) - Open source, production-ready animation and gesture library for React
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [node-ts/ddd](https://github.com/node-ts/ddd) - A Domain Driven Design framework for software simplicity in node
 - [snatalenko/node-cqrs](https://github.com/snatalenko/node-cqrs) - CQRS backbone with event sourcing for Node.js
 - [ts-arch/ts-arch](https://github.com/ts-arch/ts-arch) - An architecture unit test framework for Typescript
