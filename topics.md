@@ -839,7 +839,6 @@
 - [6fold/fast-postgres-date-parser](https://github.com/6fold/fast-postgres-date-parser) - faster implementation of postgres date parser
 - [sergiodxa/swr-sync-storage](https://github.com/sergiodxa/swr-sync-storage) - Synchronize SWR cache with localStorage or sessionStorage to get offline cache
 - [808-Squad/koronawirus.lol](https://github.com/808-Squad/koronawirus.lol) - Generator obostrzeń covidowych
-- [motiondivision/motion](https://github.com/motiondivision/motion) - Open source, production-ready animation and gesture library for React
 - [eventuate-tram/eventuate-tram-sagas](https://github.com/eventuate-tram/eventuate-tram-sagas) - Sagas for microservices
 - [ts-arch/ts-arch](https://github.com/ts-arch/ts-arch) - An architecture unit test framework for Typescript
 - [BottegaIT/ddd-leaven-v2](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CqRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing
@@ -956,6 +955,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
@@ -1018,6 +1018,7 @@
 ## spring 
 
 - [ddd-by-examples/library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [anton-liauchuk/educational-platform](https://github.com/anton-liauchuk/educational-platform) - Modular Monolith Java application with DDD
 
 ## spring-boot 
