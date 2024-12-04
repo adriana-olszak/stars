@@ -188,6 +188,7 @@
 
 ## Nix 
 
+- [spector700/Akari](https://github.com/spector700/Akari) - Akari is a Neovim configuration built with Nixvim
 - [bobbbay/dotfiles](https://github.com/bobbbay/dotfiles) - ~. Nix all the things!
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
