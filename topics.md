@@ -992,6 +992,7 @@
 
 ## others 
 
+- [spector700/Akari](https://github.com/spector700/Akari) - Akari is a Neovim configuration built with Nixvim
 - [loco-rs/chat-rooms](https://github.com/loco-rs/chat-rooms) - Create a chat room
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
