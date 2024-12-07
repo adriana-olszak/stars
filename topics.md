@@ -992,6 +992,7 @@
 
 ## others 
 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [spector700/Akari](https://github.com/spector700/Akari) - Akari is a Neovim configuration built with Nixvim
 - [loco-rs/chat-rooms](https://github.com/loco-rs/chat-rooms) - Create a chat room
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
