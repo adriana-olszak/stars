@@ -159,7 +159,7 @@
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [mongoosejs/mongoose-text-search](https://github.com/mongoosejs/mongoose-text-search) - MongoDB 2.4 text search support for mongoose
 - [taterbase/mongoosastic](https://github.com/taterbase/mongoosastic) - Index mongoose models into elastic search for kickass searching.
-- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
