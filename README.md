@@ -385,7 +385,7 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [OliverBrotchie/optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for TypeScript and Deno!
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) - OpenTelemetry (Tracing + Metrics) module for Nest framework (node.js)  🔭
-- [devoxa/prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) - Extend Prisma's `findMany` method to support Relay Cursor Connections.
+- [devoxa/prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) - Extend Prisma's `findMany` method to support Relay Cursor Connections
 - [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [oberonamsterdam/react-html-map](https://github.com/oberonamsterdam/react-html-map) - Declarative, composable and secure HTML rendering for React.
