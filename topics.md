@@ -993,6 +993,8 @@
 
 ## others 
 
+- [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+- [capitally/capitally-assets](https://github.com/capitally/capitally-assets) - Capitally public resources
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [spector700/Akari](https://github.com/spector700/Akari) - Akari is a Neovim configuration built with Nixvim
 - [loco-rs/chat-rooms](https://github.com/loco-rs/chat-rooms) - Create a chat room
