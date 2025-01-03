@@ -126,7 +126,7 @@
 - [purchasing-power-parity/purchasing-power-parity](https://github.com/purchasing-power-parity/purchasing-power-parity) - 💫  Make your products affordable for everyone around the world.
 - [traverson/traverson](https://github.com/traverson/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [bevry-trading/automated-trading](https://github.com/bevry-trading/automated-trading) - Automated Trading: Trading View Strategies =&gt; Bitfinex, itBit, DriveWealth
 - [blinktrade/algorithm-trading](https://github.com/blinktrade/algorithm-trading) - List of blinktrade approved algorithm trading strategies
 - [xFFFFF/Gekko-Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results and some useful tools.
