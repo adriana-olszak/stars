@@ -165,7 +165,7 @@
 - [erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store
 - [workshopper/learnyoureact](https://github.com/workshopper/learnyoureact) - Let's learn React.js and server side rendering!
-- [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
+- [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and Express
 - [evanlucas/learnyoumongo](https://github.com/evanlucas/learnyoumongo) - MongoDB workshop.
 - [jonathanfmills/kcdc2016Presentations](https://github.com/jonathanfmills/kcdc2016Presentations) - 
 - [jonathanfmills/SessionSlides](https://github.com/jonathanfmills/SessionSlides) - 
