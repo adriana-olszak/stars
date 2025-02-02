@@ -89,7 +89,6 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jquery](#jquery)
-- [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -783,10 +782,6 @@
 ## jquery 
 
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
-
-## js 
-
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 
 ## json 
 
