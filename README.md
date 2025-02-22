@@ -107,6 +107,7 @@
 
 ## JavaScript 
 
+- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [graphql/graphql-over-http](https://github.com/graphql/graphql-over-http) - Working draft of "GraphQL over HTTP" specification
 - [WebReflection/proxy-pants](https://github.com/WebReflection/proxy-pants) - Secured and reliable Proxy based utilities for more or less common tasks.
