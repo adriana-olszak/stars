@@ -888,6 +888,7 @@
 
 ## nestjs 
 
+- [suites-dev/suites](https://github.com/suites-dev/suites) - A testing meta-framework simplifies unit testing by reducing boilerplate code and enabling developers to build comprehensive and reliable test suites
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) - OpenTelemetry (Tracing + Metrics) module for Nest framework (node.js)  🔭
 - [adisreyaj/compito](https://github.com/adisreyaj/compito) - Compito is a simple and easy to use project management application with support for Multiple orgs.
 - [VincentJouanne/nest-clean-architecture](https://github.com/VincentJouanne/nest-clean-architecture) - 🏛️   Nest.js clean architecture example following some DDD principles with use-cases written in functionnal programming.
@@ -1408,6 +1409,7 @@
 
 ## testing 
 
+- [suites-dev/suites](https://github.com/suites-dev/suites) - A testing meta-framework simplifies unit testing by reducing boilerplate code and enabling developers to build comprehensive and reliable test suites
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -1426,6 +1428,7 @@
 
 ## typescript 
 
+- [suites-dev/suites](https://github.com/suites-dev/suites) - A testing meta-framework simplifies unit testing by reducing boilerplate code and enabling developers to build comprehensive and reliable test suites
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
