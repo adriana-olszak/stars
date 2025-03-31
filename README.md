@@ -172,7 +172,6 @@
 - [jonathanfmills/kcdc2016Presentations](https://github.com/jonathanfmills/kcdc2016Presentations) - 
 - [jonathanfmills/SessionSlides](https://github.com/jonathanfmills/SessionSlides) - 
 - [kevinchappell/formBuilder](https://github.com/kevinchappell/formBuilder) - A jQuery plugin for drag and drop form creation
-- [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 
 ## Jupyter Notebook 
 
@@ -472,6 +471,7 @@
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
+- [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
