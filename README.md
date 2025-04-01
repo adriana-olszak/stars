@@ -137,7 +137,7 @@
 - [808-Squad/koronawirus.lol](https://github.com/808-Squad/koronawirus.lol) - Generator obostrzeń covidowych
 - [thenativeweb/node-cqrs-domain](https://github.com/thenativeweb/node-cqrs-domain) - Node-cqrs-domain is a node.js module based on nodeEventStore that. It can be very useful as domain component if you work with (d)ddd, cqrs, eventdenormalizer, host, etc.
 - [BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) - sample node app for Docker examples
-- [kurrent-io/KurrentDB-Client-NodeJS](https://github.com/kurrent-io/KurrentDB-Client-NodeJS) - A NodeJS client for KurrentDB
+- [kurrent-io/KurrentDB-Client-NodeJS](https://github.com/kurrent-io/KurrentDB-Client-NodeJS) - KurrentDB NodeJS Client
 - [WealthWizardsEngineering/hpropagate](https://github.com/WealthWizardsEngineering/hpropagate) - Node.js module for propagating http headers from incoming requests to the corresponding outgoing requests automatically
 - [adr/adr-log](https://github.com/adr/adr-log) - Generate an architectural decision record log (adr-log) out of architectural decision records (ADRs)
 - [ChristianEder/pulumi-structurizr-workshop](https://github.com/ChristianEder/pulumi-structurizr-workshop) - 
