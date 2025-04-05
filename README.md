@@ -447,7 +447,7 @@
 - [snatalenko/node-cqrs](https://github.com/snatalenko/node-cqrs) - CQRS backbone with event sourcing for Node.js
 - [ts-arch/ts-arch](https://github.com/ts-arch/ts-arch) - An architecture unit test framework for Typescript
 - [hbendix/domain-driven-nest](https://github.com/hbendix/domain-driven-nest) - Applying domain-driven design principles to a Nest.js project.
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+- [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [ChristianEder/structurizr-typescript](https://github.com/ChristianEder/structurizr-typescript) - 
