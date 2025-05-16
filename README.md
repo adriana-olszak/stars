@@ -439,7 +439,7 @@
 - [teobler/swr-request-generator](https://github.com/teobler/swr-request-generator) - A tool for generating TypeScript code and interface from swagger by using SWR and axios as client.
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [EliEladElrom/cra-template-must-have-libraries](https://github.com/EliEladElrom/cra-template-must-have-libraries) - ✨ A starter CRA professional React v17 project with must-have ReactJS libraries including TypeScript, SCSS, Redux, Toolkit, Material-UI, Styled Components, React Router, Jest & Enzym, Folder structure
 - [pvarentsov/typescript-clean-architecture](https://github.com/pvarentsov/typescript-clean-architecture) - It is my attempt to create Clean Architecture based application in TypeScript.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
