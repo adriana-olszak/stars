@@ -722,7 +722,7 @@
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) - OpenTelemetry (Tracing + Metrics) module for Nest framework (node.js)  🔭
-- [mfvanek/pg-index-health-sql](https://github.com/mfvanek/pg-index-health-sql) - pg-index-health-sql is a set of sql-queries for analyzing and maintaining indexes and tables health in Postgresql databases.
+- [mfvanek/pg-index-health-sql](https://github.com/mfvanek/pg-index-health-sql) - pg-index-health-sql is a collection of SQL queries for analyzing PostgreSQL schemas, detecting issues and promoting best practices.
 - [IonicaBizau/made-in-poland](https://github.com/IonicaBizau/made-in-poland) - 🇵🇱 A list of neat projects made in Poland
 - [alvarobartt/investpy](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python
 - [devoxa/prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) - Extend Prisma's `findMany` method to support Relay Cursor Connections
@@ -1179,7 +1179,7 @@
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [AemieJ/postgres-db-scalability](https://github.com/AemieJ/postgres-db-scalability) - Database Scalability using indexing, partition & sharding with PostgreSQL
-- [mfvanek/pg-index-health-sql](https://github.com/mfvanek/pg-index-health-sql) - pg-index-health-sql is a set of sql-queries for analyzing and maintaining indexes and tables health in Postgresql databases.
+- [mfvanek/pg-index-health-sql](https://github.com/mfvanek/pg-index-health-sql) - pg-index-health-sql is a collection of SQL queries for analyzing PostgreSQL schemas, detecting issues and promoting best practices.
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -1427,7 +1427,7 @@
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
-- [mfvanek/pg-index-health-sql](https://github.com/mfvanek/pg-index-health-sql) - pg-index-health-sql is a set of sql-queries for analyzing and maintaining indexes and tables health in Postgresql databases.
+- [mfvanek/pg-index-health-sql](https://github.com/mfvanek/pg-index-health-sql) - pg-index-health-sql is a collection of SQL queries for analyzing PostgreSQL schemas, detecting issues and promoting best practices.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 ## sql-server 
