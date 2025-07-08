@@ -243,6 +243,7 @@
 
 ## artificial-intelligence 
 
+- [uscne/Awesome-European-Tech](https://github.com/uscne/Awesome-European-Tech) - An up-to-date, community-driven list of awesome European tech alternatives! All focused on privacy, sustainability, and innovation. The goal is to support European projects and companies compliant wit
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
@@ -289,6 +290,7 @@
 
 ## awesome-list 
 
+- [uscne/Awesome-European-Tech](https://github.com/uscne/Awesome-European-Tech) - An up-to-date, community-driven list of awesome European tech alternatives! All focused on privacy, sustainability, and innovation. The goal is to support European projects and companies compliant wit
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -409,6 +411,7 @@
 
 ## coding 
 
+- [uscne/Awesome-European-Tech](https://github.com/uscne/Awesome-European-Tech) - An up-to-date, community-driven list of awesome European tech alternatives! All focused on privacy, sustainability, and innovation. The goal is to support European projects and companies compliant wit
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 ## compiler 
@@ -459,6 +462,7 @@
 
 ## cybersecurity 
 
+- [uscne/Awesome-European-Tech](https://github.com/uscne/Awesome-European-Tech) - An up-to-date, community-driven list of awesome European tech alternatives! All focused on privacy, sustainability, and innovation. The goal is to support European projects and companies compliant wit
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 
 ## dart 
@@ -1191,6 +1195,7 @@
 
 ## privacy 
 
+- [uscne/Awesome-European-Tech](https://github.com/uscne/Awesome-European-Tech) - An up-to-date, community-driven list of awesome European tech alternatives! All focused on privacy, sustainability, and innovation. The goal is to support European projects and companies compliant wit
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
