@@ -122,6 +122,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [objective-c](#objective-c)
+- [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -1077,6 +1078,11 @@
 ## objective-c 
 
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+
+## obsidian-md 
+
+- [mkdocs-publisher/mkdocs-publisher](https://github.com/mkdocs-publisher/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
+- [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 
 ## obsidian-plugin 
 
