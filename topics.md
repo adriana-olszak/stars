@@ -396,7 +396,7 @@
 ## cli 
 
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
-- [kottster/kottster](https://github.com/kottster/kottster) - A simple Node.js admin panel for your app. Build an admin panel in minutes.
+- [kottster/kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -813,7 +813,7 @@
 ## javascript 
 
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
-- [kottster/kottster](https://github.com/kottster/kottster) - A simple Node.js admin panel for your app. Build an admin panel in minutes.
+- [kottster/kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
 - [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
@@ -1301,7 +1301,7 @@
 
 ## react 
 
-- [kottster/kottster](https://github.com/kottster/kottster) - A simple Node.js admin panel for your app. Build an admin panel in minutes.
+- [kottster/kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [desko27/react-call](https://github.com/desko27/react-call) - ⚛️ 📡 Call your React components
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -1563,7 +1563,7 @@
 
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
-- [kottster/kottster](https://github.com/kottster/kottster) - A simple Node.js admin panel for your app. Build an admin panel in minutes.
+- [kottster/kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
 - [ArtemKutsan/astro-citrus](https://github.com/ArtemKutsan/astro-citrus) - Astro Citrus
 - [suites-dev/suites](https://github.com/suites-dev/suites) - Unit testing framework for dependency injection that automates mocking and simplifies test setup, reducing boilerplate code and enabling developers to build comprehensive and reliable test suites with
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
