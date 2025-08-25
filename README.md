@@ -163,7 +163,6 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [PhilipReasa/var_dump](https://github.com/PhilipReasa/var_dump) - Chrome extension to make php var_dump's look better
-- [objectivehtml/FlipClock](https://github.com/objectivehtml/FlipClock) - 
 - [pongells/collaborative-virtual-browser](https://github.com/pongells/collaborative-virtual-browser) - Example of using PhantomJS with Node, Angular and Socket.io to create a Virtual Browser which may be used by multiple devices collaboratively.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [mongoosejs/mongoose-text-search](https://github.com/mongoosejs/mongoose-text-search) - MongoDB 2.4 text search support for mongoose
@@ -495,6 +494,7 @@
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
+- [objectivehtml/FlipClock](https://github.com/objectivehtml/FlipClock) - 
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
