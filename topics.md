@@ -487,7 +487,6 @@
 
 ## data 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [Lifyzer/Data-Parser-System](https://github.com/Lifyzer/Data-Parser-System) - :apple: Simple script that parses data from open source databases to the standard Lifyzer database structure :green_apple:
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
