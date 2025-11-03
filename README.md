@@ -393,7 +393,7 @@
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [kottster/kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [suites-dev/suites](https://github.com/suites-dev/suites) - Unit testing framework for dependency injection that automates mocking and simplifies test setup, reducing boilerplate code and enabling developers to build comprehensive and reliable test suites with
+- [suites-dev/suites](https://github.com/suites-dev/suites) - A unit-testing framework for TypeScript backend systems working with dependency injection
 - [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
