@@ -22,6 +22,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [MDX](#mdx)
+- [Makefile](#makefile)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -190,6 +191,10 @@
 
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2025)
 - [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️
+
+## Makefile 
+
+- [daviaraujocc/lgtm-stack](https://github.com/daviaraujocc/lgtm-stack) - A step-by-step to install LGTM Stack + Opentelemetry Collector
 
 ## Nix 
 
