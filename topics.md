@@ -186,6 +186,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
 - [vue](#vue)
@@ -1719,6 +1720,10 @@
 ## ui-design 
 
 - [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers.
+
+## video 
+
+- [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 
 ## vim 
 
