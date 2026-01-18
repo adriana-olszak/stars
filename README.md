@@ -387,6 +387,7 @@
 
 ## TypeScript 
 
+- [nguyendanhda98/n8n-nodes-discord-dnd](https://github.com/nguyendanhda98/n8n-nodes-discord-dnd) - 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
