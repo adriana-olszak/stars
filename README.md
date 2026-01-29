@@ -473,7 +473,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [node-ts/ddd](https://github.com/node-ts/ddd) - A Domain Driven Design framework for software simplicity in node
-- [snatalenko/node-cqrs](https://github.com/snatalenko/node-cqrs) - CQRS backbone with event sourcing for Node.js
+- [snatalenko/node-cqrs](https://github.com/snatalenko/node-cqrs) - CQRS backbone with event sourcing
 - [ts-arch/ts-arch](https://github.com/ts-arch/ts-arch) - An architecture unit test framework for Typescript
 - [hbendix/domain-driven-nest](https://github.com/hbendix/domain-driven-nest) - Applying domain-driven design principles to a Nest.js project.
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
