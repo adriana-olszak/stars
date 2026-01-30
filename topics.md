@@ -1099,6 +1099,7 @@
 
 ## node 
 
+- [nodejs/diagnostics](https://github.com/nodejs/diagnostics) - Node.js Diagnostics Working Group
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [diego3g/umbriel](https://github.com/diego3g/umbriel) - ✉️ Umbriel is a simple mailing platform built with Node.js, TypeScript & Prisma.
 - [cerbos/express-prisma-cerbos](https://github.com/cerbos/express-prisma-cerbos) - An example application of integrating Cerbos with an Express server using Prisma as the ORM.
@@ -1110,6 +1111,7 @@
 
 ## nodejs 
 
+- [nodejs/diagnostics](https://github.com/nodejs/diagnostics) - Node.js Diagnostics Working Group
 - [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
