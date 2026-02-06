@@ -203,6 +203,7 @@
 
 ## agent 
 
+- [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## ai 
@@ -1001,6 +1002,7 @@
 
 ## markdown 
 
+- [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [ArtemKutsan/astro-citrus](https://github.com/ArtemKutsan/astro-citrus) - Astro Citrus
@@ -1197,6 +1199,7 @@
 
 ## others 
 
+- [yibie/SPEC-AGENTS.md](https://github.com/yibie/SPEC-AGENTS.md) - Doc-Driven Development
 - [nguyendanhda98/n8n-nodes-discord-dnd](https://github.com/nguyendanhda98/n8n-nodes-discord-dnd) - 
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [poppinss/youch](https://github.com/poppinss/youch) - Pretty print JavaScript errors on the Web and the Terminal
