@@ -35,6 +35,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
+- [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
 - [command-line](#command-line)
@@ -145,6 +146,7 @@
 - [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -225,6 +227,7 @@
 
 ## ai-agents 
 
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
@@ -296,6 +299,7 @@
 
 ## automation 
 
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -395,6 +399,7 @@
 
 ## bash 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
@@ -462,6 +467,10 @@
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+
+## code-quality 
+
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
 
 ## code-review 
 
@@ -603,6 +612,7 @@
 
 ## developer-tools 
 
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
@@ -1223,7 +1233,6 @@
 - [SAP/curated-resources-for-domain-driven-design](https://github.com/SAP/curated-resources-for-domain-driven-design) - You want to get started with Domain-Driven Design or are looking for advanced learning resources in this topic? Then this collection of curated learning resources is a good place to check out.
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
-- [capitally/capitally-assets](https://github.com/capitally/capitally-assets) - Capitally public resources
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [spector700/Akari](https://github.com/spector700/Akari) - Akari is a Neovim configuration built with Nixvim
 - [loco-rs/chat-rooms](https://github.com/loco-rs/chat-rooms) - Create a chat room
@@ -1358,6 +1367,7 @@
 
 ## productivity 
 
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 
@@ -1373,6 +1383,10 @@
 ## project-management 
 
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+
+## prompt-engineering 
+
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
 
 ## publishing 
 
@@ -1482,6 +1496,7 @@
 
 ## rust 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -1578,6 +1593,7 @@
 
 ## shell 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 
 ## spring 
@@ -1809,6 +1825,7 @@
 
 ## zsh 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
