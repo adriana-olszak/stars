@@ -490,7 +490,7 @@
 - [hbendix/domain-driven-nest](https://github.com/hbendix/domain-driven-nest) - Applying domain-driven design principles to a Nest.js project.
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [ChristianEder/structurizr-typescript](https://github.com/ChristianEder/structurizr-typescript) - 
 - [ctrlplusb/prisma-pg-jest](https://github.com/ctrlplusb/prisma-pg-jest) - Example showcasing how to use Prisma + Postgres + Jest, where each test has its own unique DB context
 - [ryands17/nexus-introspection](https://github.com/ryands17/nexus-introspection) - An auth flow with Prisma and Nexus using introspection instead of Migrate
