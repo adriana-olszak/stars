@@ -138,7 +138,6 @@
 - [Netflix/nerror](https://github.com/Netflix/nerror) - nerror: rich JavaScript errors
 - [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [purchasing-power-parity/purchasing-power-parity](https://github.com/purchasing-power-parity/purchasing-power-parity) - 💫  Make your products affordable for everyone around the world.
 - [traverson/traverson](https://github.com/traverson/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
@@ -273,7 +272,7 @@
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [davidhund/awesome-vanilla-js](https://github.com/davidhund/awesome-vanilla-js) - Listing (awesome) plain—Vanilla—Javascript resources
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 - [rajikaimal/awesome-express](https://github.com/rajikaimal/awesome-express) - :octocat: A curated list of awesome express.js resources
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -463,6 +462,7 @@
 - [wadackel/dot-wild](https://github.com/wadackel/dot-wild) - Use powerful dot notation (dot path + wildcard) to manipulate properties of JSON
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+- [purchasing-power-parity/purchasing-power-parity](https://github.com/purchasing-power-parity/purchasing-power-parity) - 💫  Make your products affordable for everyone around the world.
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [juicycleff/nestjs-event-store](https://github.com/juicycleff/nestjs-event-store) - NestJS CQRS module for EventStore.org. It requires @nestjs/cqrs
 - [abreza/nestjs-event-store](https://github.com/abreza/nestjs-event-store) - NestJS CQRS module for EventStore.org. It requires @nestjs/cqrs
