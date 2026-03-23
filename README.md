@@ -20,7 +20,6 @@
 - [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -98,6 +97,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [callmenick/CSS-Presentation](https://github.com/callmenick/CSS-Presentation) - My CSS presentation (demos included), that I gave at Hack Reactor
 
 ## Handlebars 
@@ -183,10 +183,6 @@
 - [jonathanfmills/kcdc2016Presentations](https://github.com/jonathanfmills/kcdc2016Presentations) - 
 - [jonathanfmills/SessionSlides](https://github.com/jonathanfmills/SessionSlides) - 
 - [kevinchappell/formBuilder](https://github.com/kevinchappell/formBuilder) - A jQuery plugin for drag and drop form creation
-
-## Jupyter Notebook 
-
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 
 ## Kotlin 
 
