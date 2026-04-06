@@ -32,6 +32,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -441,6 +442,14 @@
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [PhilipReasa/var_dump](https://github.com/PhilipReasa/var_dump) - Chrome extension to make php var_dump's look better
+
+## claude-code 
+
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,340+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 
 ## cli 
 
@@ -1242,7 +1251,6 @@
 ## others 
 
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [ugoenyioha/opencode-memory-graph](https://github.com/ugoenyioha/opencode-memory-graph) - A knowledge-graph-powered memory plugin for OpenCode
 - [vladm3105/aidoc-flow-framework](https://github.com/vladm3105/aidoc-flow-framework) - 
 - [yibie/SPEC-AGENTS.md](https://github.com/yibie/SPEC-AGENTS.md) - Doc-Driven Development
