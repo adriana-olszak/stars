@@ -113,7 +113,6 @@
 
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [structurizr/cli](https://github.com/structurizr/cli) - A command line utility for Structurizr.
-- [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 - [apilayer/restcountries](https://github.com/apilayer/restcountries) - Get information about countries via a RESTful API
 - [thombergs/buckpal](https://github.com/thombergs/buckpal) - An example approach for implementing a Clean/Hexagonal Architecture
 - [ddd-by-examples/factory](https://github.com/ddd-by-examples/factory) - The missing, complete example of Domain-Driven Design enterprise application backed by Spring stack
