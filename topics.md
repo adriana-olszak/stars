@@ -1318,7 +1318,6 @@
 - [Netflix/unleash](https://github.com/Netflix/unleash) - Professionally publish your JavaScript modules in one keystroke
 - [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
 - [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
-- [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 - [abreza/nestjs-event-store](https://github.com/abreza/nestjs-event-store) - NestJS CQRS module for EventStore.org. It requires @nestjs/cqrs
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [ArkerLabs/event-sourcing-nestjs](https://github.com/ArkerLabs/event-sourcing-nestjs) - NestJS module for implementing Event Sourcing
