@@ -35,7 +35,6 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-- [Zig](#zig)
 
 ## Assembly 
 
@@ -381,6 +380,7 @@
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [wpcodevo/rust-user-signup-forgot-password-email](https://github.com/wpcodevo/rust-user-signup-forgot-password-email) - In this article, we will explore the process of building a REST API in Rust with features like user registration, email verification, login, and logout capabilities. Our API will be powered by the hig
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## SCSS 
 
@@ -525,10 +525,6 @@
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
-
-## Zig 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
