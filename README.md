@@ -151,7 +151,6 @@
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [808-Squad/koronawirus.lol](https://github.com/808-Squad/koronawirus.lol) - Generator obostrzeń covidowych
-- [thenativeweb/node-cqrs-domain](https://github.com/thenativeweb/node-cqrs-domain) - Node-cqrs-domain is a node.js module based on nodeEventStore that. It can be very useful as domain component if you work with (d)ddd, cqrs, eventdenormalizer, host, etc.
 - [BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) - sample node app for Docker examples
 - [kurrent-io/KurrentDB-Client-NodeJS](https://github.com/kurrent-io/KurrentDB-Client-NodeJS) - KurrentDB NodeJS Client
 - [WealthWizardsEngineering/hpropagate](https://github.com/WealthWizardsEngineering/hpropagate) - Node.js module for propagating http headers from incoming requests to the corresponding outgoing requests automatically
