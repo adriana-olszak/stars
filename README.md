@@ -168,7 +168,7 @@
 - [antonybudianto/cra-universal](https://github.com/antonybudianto/cra-universal) - 🌏 Create React App companion for universal app. No eject, zero config, Streaming SSR with Suspense. React 18 ready
 - [minwe/jetbrains-react](https://github.com/minwe/jetbrains-react) - React.js live templates for JetBrains editors.
 - [glathoud/transfun](https://github.com/glathoud/transfun) - Merging loops for speed in JavaScript
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [PhilipReasa/var_dump](https://github.com/PhilipReasa/var_dump) - Chrome extension to make php var_dump's look better
 - [pongells/collaborative-virtual-browser](https://github.com/pongells/collaborative-virtual-browser) - Example of using PhantomJS with Node, Angular and Socket.io to create a Virtual Browser which may be used by multiple devices collaboratively.
