@@ -223,7 +223,7 @@
 
 ## agent-skills 
 
-- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 
@@ -260,7 +260,7 @@
 ## ai-agents 
 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
-- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
@@ -332,7 +332,7 @@
 
 ## automation 
 
-- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -489,7 +489,7 @@
 ## claude-code 
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -535,7 +535,7 @@
 
 ## code-quality 
 
-- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
 
 ## code-review 
 
@@ -680,7 +680,7 @@
 ## developer-tools 
 
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1463,7 +1463,7 @@
 
 ## productivity 
 
-- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 
@@ -1483,7 +1483,7 @@
 ## prompt-engineering 
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready development workflows for Claude Code, powered by specialized AI agents.
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
 
 ## publishing 
 
