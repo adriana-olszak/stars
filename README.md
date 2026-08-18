@@ -96,6 +96,7 @@
 
 ## HTML 
 
+- [yibie/SPEC-AGENTS.md](https://github.com/yibie/SPEC-AGENTS.md) - Doc-Driven Development
 - [schollz/ingredients](https://github.com/schollz/ingredients) - Extract recipe ingredients from any recipe website on the internet.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs
 - [tc39/proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
@@ -389,7 +390,6 @@
 ## Shell 
 
 - [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
-- [yibie/SPEC-AGENTS.md](https://github.com/yibie/SPEC-AGENTS.md) - Doc-Driven Development
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
