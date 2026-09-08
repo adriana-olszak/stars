@@ -660,7 +660,7 @@
 
 ## deno 
 
-- [OliverBrotchie/optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for TypeScript and Deno!
+- [OliverBrotchie/optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for Bun, Deno and Node.
 
 ## deployment 
 
@@ -1653,7 +1653,7 @@
 - [prodzilla/prodzilla](https://github.com/prodzilla/prodzilla) - 🦖 Testing in Production - Synthetic Monitoring on Rust
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [wpcodevo/rust-user-signup-forgot-password-email](https://github.com/wpcodevo/rust-user-signup-forgot-password-email) - In this article, we will explore the process of building a REST API in Rust with features like user registration, email verification, login, and logout capabilities. Our API will be powered by the hig
-- [OliverBrotchie/optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for TypeScript and Deno!
+- [OliverBrotchie/optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for Bun, Deno and Node.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## sass 
@@ -1821,7 +1821,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [CodelyTV/typescript-ddd-example](https://github.com/CodelyTV/typescript-ddd-example) - 🔷🎯 TypeScript DDD Example: Complete project applying Hexagonal Architecture and Domain-Driven Design patterns
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [OliverBrotchie/optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for TypeScript and Deno!
+- [OliverBrotchie/optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for Bun, Deno and Node.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) - OpenTelemetry (Tracing + Metrics) module for Nest framework (node.js)  🔭
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
