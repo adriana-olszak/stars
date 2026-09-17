@@ -417,7 +417,7 @@
 - [poppinss/youch](https://github.com/poppinss/youch) - Pretty print JavaScript errors on the Web and the Terminal
 - [poppinss/cliui](https://github.com/poppinss/cliui) - Opinionated UI KIT for Command Line apps
 - [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [kottster/kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
