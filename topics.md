@@ -477,6 +477,7 @@
 
 ## claude 
 
+- [victorhqc/filbert](https://github.com/victorhqc/filbert) - Native macOS menu bar app for tracking AI usage, quotas, token budgets, and spending across providers.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -485,6 +486,7 @@
 
 ## claude-code 
 
+- [victorhqc/filbert](https://github.com/victorhqc/filbert) - Native macOS menu bar app for tracking AI usage, quotas, token budgets, and spending across providers.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
@@ -1070,6 +1072,7 @@
 
 ## llm 
 
+- [victorhqc/filbert](https://github.com/victorhqc/filbert) - Native macOS menu bar app for tracking AI usage, quotas, token budgets, and spending across providers.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
@@ -1099,6 +1102,7 @@
 
 ## macos 
 
+- [victorhqc/filbert](https://github.com/victorhqc/filbert) - Native macOS menu bar app for tracking AI usage, quotas, token budgets, and spending across providers.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1313,6 +1317,7 @@
 
 ## openai 
 
+- [victorhqc/filbert](https://github.com/victorhqc/filbert) - Native macOS menu bar app for tracking AI usage, quotas, token budgets, and spending across providers.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
