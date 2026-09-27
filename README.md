@@ -399,6 +399,7 @@
 
 ## Swift 
 
+- [victorhqc/filbert](https://github.com/victorhqc/filbert) - Native macOS menu bar app for tracking AI usage, quotas, token budgets, and spending across providers.
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 
 ## TypeScript 
