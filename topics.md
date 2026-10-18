@@ -315,7 +315,6 @@
 
 ## api 
 
-- [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
@@ -729,7 +728,6 @@
 
 ## documentation 
 
-- [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 
@@ -781,7 +779,6 @@
 
 ## express 
 
-- [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [cerbos/express-prisma-cerbos](https://github.com/cerbos/express-prisma-cerbos) - An example application of integrating Cerbos with an Express server using Prisma as the ORM.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
@@ -907,7 +904,6 @@
 ## hacktoberfest 
 
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [ravionhq/superjson](https://github.com/ravionhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -948,7 +944,6 @@
 
 ## http 
 
-- [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -1024,7 +1019,6 @@
 
 ## json 
 
-- [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [ravionhq/superjson](https://github.com/ravionhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -1241,7 +1235,6 @@
 - [event-driven-io/emmett](https://github.com/event-driven-io/emmett) - Emmett - a Node.js library taking your event-driven applications back to the future!
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [nodejs/diagnostics](https://github.com/nodejs/diagnostics) - Node.js Diagnostics Working Group
-- [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [CodelyTV/typescript-ddd-example](https://github.com/CodelyTV/typescript-ddd-example) - 🔷🎯 TypeScript DDD Example: Complete project applying Hexagonal Architecture and Domain-Driven Design patterns
@@ -1329,6 +1322,7 @@
 
 ## others 
 
+- [valen-lang/Valen](https://github.com/valen-lang/Valen) - Compiler for the Valen programming language
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [ugoenyioha/opencode-memory-graph](https://github.com/ugoenyioha/opencode-memory-graph) - A knowledge-graph-powered memory plugin for OpenCode
 - [vladm3105/aidoc-flow-framework](https://github.com/vladm3105/aidoc-flow-framework) - 
@@ -1690,7 +1684,6 @@
 
 ## server 
 
-- [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 
 ## serverless 
@@ -1816,7 +1809,6 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
-- [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [kottster/kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
 - [ArtemKutsan/astro-citrus](https://github.com/ArtemKutsan/astro-citrus) - Astro Citrus
 - [suites-dev/suites-unit](https://github.com/suites-dev/suites-unit) - A unit testing framework for TypeScript backends working with inversion of control and dependency injection
