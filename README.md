@@ -217,6 +217,7 @@
 
 ## Others 
 
+- [djasonpenney/bitwarden_reddit](https://github.com/djasonpenney/bitwarden_reddit) - Assets for /r/bitwarden
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [nodejs/diagnostics](https://github.com/nodejs/diagnostics) - Node.js Diagnostics Working Group
 - [SAP/curated-resources-for-domain-driven-design](https://github.com/SAP/curated-resources-for-domain-driven-design) - You want to get started with Domain-Driven Design or are looking for advanced learning resources in this topic? Then this collection of curated learning resources is a good place to check out.
@@ -386,7 +387,7 @@
 - [loco-rs/chat-rooms](https://github.com/loco-rs/chat-rooms) - Create a chat room
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [wpcodevo/rust-user-signup-forgot-password-email](https://github.com/wpcodevo/rust-user-signup-forgot-password-email) - In this article, we will explore the process of building a REST API in Rust with features like user registration, email verification, login, and logout capabilities. Our API will be powered by the hig
-- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
+- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast, Neuro-symbolic Data-Wrangling toolkit
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## SCSS 
