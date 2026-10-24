@@ -1069,7 +1069,6 @@
 
 ## llm 
 
-- [victorhqc/filbert](https://github.com/victorhqc/filbert) - Native macOS menu bar app for tracking AI usage, quotas, token budgets, and spending across providers.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
