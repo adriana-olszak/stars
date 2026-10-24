@@ -509,7 +509,7 @@
 - [ChristianEder/structurizr-typescript](https://github.com/ChristianEder/structurizr-typescript) - 
 - [ctrlplusb/prisma-pg-jest](https://github.com/ctrlplusb/prisma-pg-jest) - Example showcasing how to use Prisma + Postgres + Jest, where each test has its own unique DB context
 - [ryands17/nexus-introspection](https://github.com/ryands17/nexus-introspection) - An auth flow with Prisma and Nexus using introspection instead of Migrate
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
