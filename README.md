@@ -407,6 +407,7 @@
 
 ## TypeScript 
 
+- [occupysaas/salescompel](https://github.com/occupysaas/salescompel) - A clean room recreation of Salesforce with 1:1 drop in replacement feature parity.
 - [event-driven-io/emmett](https://github.com/event-driven-io/emmett) - Emmett - a Node.js library taking your event-driven applications back to the future!
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
