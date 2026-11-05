@@ -1331,6 +1331,7 @@
 
 ## others 
 
+- [occupysaas/salescompel](https://github.com/occupysaas/salescompel) - A clean room recreation of Salesforce with 1:1 drop in replacement feature parity.
 - [djasonpenney/bitwarden_reddit](https://github.com/djasonpenney/bitwarden_reddit) - Assets for /r/bitwarden
 - [valen-lang/Valen](https://github.com/valen-lang/Valen) - Compiler for the Valen programming language
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
