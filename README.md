@@ -99,6 +99,7 @@
 
 - [schollz/ingredients](https://github.com/schollz/ingredients) - Extract recipe ingredients from any recipe website on the internet.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs
+- [graphql/graphql-over-http](https://github.com/graphql/graphql-over-http) - Working draft of "GraphQL over HTTP" specification
 - [tc39/proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -129,7 +130,6 @@
 - [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-- [graphql/graphql-over-http](https://github.com/graphql/graphql-over-http) - Working draft of "GraphQL over HTTP" specification
 - [WebReflection/proxy-pants](https://github.com/WebReflection/proxy-pants) - Secured and reliable Proxy based utilities for more or less common tasks.
 - [AemieJ/postgres-db-scalability](https://github.com/AemieJ/postgres-db-scalability) - Database Scalability using indexing, partition & sharding with PostgreSQL
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
