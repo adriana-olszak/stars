@@ -511,6 +511,7 @@
 
 ## cli 
 
+- [plannotator/plannotator-tui](https://github.com/plannotator/plannotator-tui) - Annotate Markdown in the terminal: select, comment, looks-good, delete; send the review to your agent.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [kottster/kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
@@ -655,6 +656,7 @@
 
 ## database 
 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
@@ -926,7 +928,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) - OpenTelemetry (Tracing + Metrics) module for Nest framework (node.js)  🔭
-- [mfvanek/pg-index-health-sql](https://github.com/mfvanek/pg-index-health-sql) - pg-index-health-sql is a collection of SQL queries for analyzing PostgreSQL schemas, detecting issues and promoting best practices.
 - [IonicaBizau/made-in-poland](https://github.com/IonicaBizau/made-in-poland) - 🇵🇱 A list of neat projects made in Poland
 - [alvarobartt/investpy](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python
 - [devoxa/prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) - Extend Prisma's `findMany` method to support Relay Cursor Connections
@@ -1734,6 +1735,7 @@
 
 ## sql 
 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -1821,6 +1823,7 @@
 
 ## tui 
 
+- [plannotator/plannotator-tui](https://github.com/plannotator/plannotator-tui) - Annotate Markdown in the terminal: select, comment, looks-good, delete; send the review to your agent.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
