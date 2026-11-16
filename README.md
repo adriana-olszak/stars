@@ -333,6 +333,8 @@
 
 ## Rust 
 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
+- [plannotator/plannotator-tui](https://github.com/plannotator/plannotator-tui) - Annotate Markdown in the terminal: select, comment, looks-good, delete; send the review to your agent.
 - [javy-fernandez/datacraft](https://github.com/javy-fernandez/datacraft) - DataGrip-style database client for macOS, Windows and Linux.
 - [valen-lang/Valen](https://github.com/valen-lang/Valen) - Compiler for the Valen programming language
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
